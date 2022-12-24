@@ -38,7 +38,7 @@ Berikut adalah flowchart project ini
 
 ## Source Code
 Untuk menjalankan kodenya, anda harus menginstall Arduino IDE terlebih dahulu yang bisa didownload melalui link berikut (https://www.arduino.cc/en/software)
-
+```ino
     #define trigger 5
     #define echo 4
     #define Relay 3
@@ -82,7 +82,7 @@ Untuk menjalankan kodenya, anda harus menginstall Arduino IDE terlebih dahulu ya
 	 
 	 distance=time*200/20000;
 	}
-
+```
 ## Langkah - Langkah Pembuatan
 1. Pola kardus menggunakan penggaris dan pensil/balpoin menjadi persegi panjang untuk kerangka penyimpana alat-alat yang digunakan dan penyimpanan air.
 2. Lem kardus yang sudah memiliki pola, lalu diamkan hingga lem benar-benar merekat dan kardus terbentuk menjadi apa yang telah dipola.
