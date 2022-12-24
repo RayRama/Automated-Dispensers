@@ -18,6 +18,16 @@
   <br> [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 </div>
+Dispenser otomatis dengan sensor jarak atau ultrasonik merupakan jenis dispenser yang menggunakan teknologi sensor untuk mengdeteksi keberadaan tangan atau objek di depannya. Alat ini akan secara otomatis mengeluarkan cairan, seperti air minum atau sabun, ketika sensor mendeteksi adanya tangan atau objek di depannya. Dispenser otomatis dengan sensor jarak atau ultrasonik sangat berguna untuk menjaga kebersihan tangan dan menghindari kontak langsung dengan cairan yang dikeluarkan. Selain itu, alat ini juga dapat membantu menghemat cairan dengan mengeluarkannya hanya ketika diperlukan.
+
+## Alat dan Bahan
+1. Kardus
+2. Lem tembak/lem bakar
+3. Alat lem tembak
+4. Penggaris
+5. Kater
+6. Gunting
+7. Balpoin/pensil
 
 ## Flowchart 
 Berikut adalah flowchart project ini
