@@ -28,6 +28,12 @@ Dispenser otomatis dengan sensor jarak atau ultrasonik merupakan jenis dispenser
 5. Kater
 6. Gunting
 7. Balpoin/pensil
+8. Sensor Ultrasonic
+9. Relay 5V
+10. Selang Pompa 1 m
+11. Mini Pompa 3V (DC)
+12. Casing Akrilik Arduino (Opsional)
+13. Kabel Jumper Male to Female 20 cm
 
 ## Flowchart 
 Berikut adalah flowchart project ini
