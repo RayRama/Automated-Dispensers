@@ -39,49 +39,49 @@ Berikut adalah flowchart project ini
 ## Source Code
 Untuk menjalankan kodenya, anda harus menginstall Arduino IDE terlebih dahulu yang bisa didownload melalui link berikut (https://www.arduino.cc/en/software)
 ```ino
-    #define trigger 5
-    #define echo 4
-    #define Relay 3
-    float time=0,distance=0;
-    void setup()
-    {
-	  Serial.begin(9600);
+#define trigger 5
+#define echo 4
+#define Relay 3
+float time=0,distance=0;
+void setup()
+{
+  Serial.begin(9600);
 
-	 pinMode(trigger,OUTPUT);
-	 pinMode(echo,INPUT);
-	 pinMode(Relay,OUTPUT);
+ pinMode(trigger,OUTPUT);
+ pinMode(echo,INPUT);
+ pinMode(Relay,OUTPUT);
 
-	 delay(2000);
-	}
-	 
-	void loop()
-	{
-	 measure_distance();
+ delay(2000);
+}
 
-	 if(distance>5)
-	 {
-	   digitalWrite(Relay,HIGH);
-	 }
-	 else
-	 {
-	   digitalWrite(Relay,LOW);
-	 }
+void loop()
+{
+ measure_distance();
 
-	 delay(300);
-	}
+ if(distance>5)
+ {
+   digitalWrite(Relay,HIGH);
+ }
+ else
+ {
+   digitalWrite(Relay,LOW);
+ }
 
-	void measure_distance()
-	{
-	 digitalWrite(trigger,LOW);
-	 delayMicroseconds(2);
-	 digitalWrite(trigger,HIGH);
-	 delayMicroseconds(10);
-	 digitalWrite(trigger,LOW);
-	 delayMicroseconds(2);
-	 time=pulseIn(echo,HIGH);
-	 
-	 distance=time*200/20000;
-	}
+ delay(300);
+}
+
+void measure_distance()
+{
+ digitalWrite(trigger,LOW);
+ delayMicroseconds(2);
+ digitalWrite(trigger,HIGH);
+ delayMicroseconds(10);
+ digitalWrite(trigger,LOW);
+ delayMicroseconds(2);
+ time=pulseIn(echo,HIGH);
+
+ distance=time*200/20000;
+}
 ```
 ## Langkah - Langkah Pembuatan
 1. Pola kardus menggunakan penggaris dan pensil/balpoin menjadi persegi panjang untuk kerangka penyimpana alat-alat yang digunakan dan penyimpanan air.
