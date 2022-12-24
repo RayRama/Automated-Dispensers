@@ -21,4 +21,4 @@
 
 ## Flowchart 
 Berikut adalah flowchart project ini
-[!Flowchart_assets](assets/flowchart.jpg)
+![Flowchart_assets](assets/flowchart.jpg)
