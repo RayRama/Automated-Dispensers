@@ -42,3 +42,17 @@ Dispenser otomatis dengan sensor jarak atau ultrasonik merupakan jenis dispenser
 ## Flowchart 
 Berikut adalah flowchart project ini
 <br>![Flowchart_assets](assets/flowchart.jpg)
+
+## Langkah - Langkah Pembuatan
+1. Pola kardus menggunakan penggaris dan pensil/balpoin menjadi persegi panjang untuk kerangka penyimpana alat-alat yang digunakan dan penyimpanan air.
+2. Lem kardus yang sudah memiliki pola, lalu diamkan hingga lem benar-benar merekat dan kardus terbentuk menjadi apa yang telah dipola.
+3. Pola kembali 1 lembar kardus untuk menutup bagian bawah pada dispenser agar kardus yang sudah terbentuk bisa berdiri dan membuat alas untuk gelas nantiya.
+4. Setelah pola terbentuk rekatkan dengan kardus yang persegi Panjang.
+5. Buat kembali pola untuk penutup bagian atas dispenser dan bagian depan dispenser untuk menutupi bagian selang air yang nantinya akan digunakan.
+6. Apabila pola sudah terbentuk rekatkan kembali dengan pola yang sudah terbentuk sebelumnya.
+7. Kasih 2 lubang sebesar sensor dibagian depan dispenser yang setara dengan gelas yang akan digunakan.
+8. Tempelkan sensor pada lubang yang telah dibuat menggunakan lem tembak/lem bakar.
+9. Buat dudukan untuk Arduino dibagian dalam kardus yang berbentuk persegi Panjang agar Arduino dapat terlindungi.
+10. Tempelkan kerangka dudukan untuk Arduino yang telah terbentuk pada bagian dalem samping dispenser.
+11. Setelah semua terpasang lalu instalkan semua komponen menggunakan kabel.
+12. Lalu apabila sudah terpasang semua dispenser otomatis telah jadi dan siap untuk digunakan.
