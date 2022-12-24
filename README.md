@@ -18,3 +18,7 @@
   <br> [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 </div>
+
+## Flowchart 
+Berikut adalah flowchart project ini
+[!Flowchart_assets](assets/flowchart.jpg)
