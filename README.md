@@ -34,6 +34,10 @@ Dispenser otomatis dengan sensor jarak atau ultrasonik merupakan jenis dispenser
 11. Mini Pompa 3V (DC)
 12. Casing Akrilik Arduino (Opsional)
 13. Kabel Jumper Male to Female 20 cm
+14. Arduino Uno
+15. Kabel Data Tipe C
+16. Kabel Data Printer (Tipe B)
+17. Adaptop Charger HP
 
 ## Flowchart 
 Berikut adalah flowchart project ini
