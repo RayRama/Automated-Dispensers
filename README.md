@@ -96,3 +96,6 @@ void measure_distance()
 10. Tempelkan kerangka dudukan untuk Arduino yang telah terbentuk pada bagian dalem samping dispenser.
 11. Setelah semua terpasang lalu instalkan semua komponen menggunakan kabel.
 12. Lalu apabila sudah terpasang semua dispenser otomatis telah jadi dan siap untuk digunakan.
+
+## Lainnya
+Untuk lebih lanjut, anda bisa membaca artikel berikut [Automated Dispensers With Ultrasonic Sensor](https://medium.com/@silvianurrobianti/automated-dispensers-with-ultrasonic-sensor-7eb52714f260)
